@@ -2,3 +2,4 @@ vless://aa8b4a23-655f-0001-aef6-27b0c45e7877@46.8.210.102:443?flow=xtls-rprx-vis
 vless://b668547d-d997-4f59-957b-5da1d9a5de15@178.248.236.155:18443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=firefox&pbk=JScNgNDPXbQKa-5VKPNZAaC-RqQuvuf4uEEHbJWrVSc&sid=000443436f&type=tcp&headerType=none#LTE - Нидерланды 🇳🇱
 hysteria2://e86fd04e-a2f5-4779-a529-748b1813cbc2@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru3.kinotorg.net#LTE - Польша 🇵🇱
 hysteria2://9b4c96f9-60e8-4694-b069-c46992390555@78.159.240.215:2053?security=tls&fm=%7B%7D&sni=quic.tyr-agentstvo.tech#LTE - Германия 🇩🇪
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@144.31.226.178:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=node16.mxvpn.dev&fp=firefox&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3&type=tcp&headerType=none#Финляндия #3 🇫🇮
